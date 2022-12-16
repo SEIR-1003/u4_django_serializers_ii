@@ -2,6 +2,8 @@
 
 ### JEREMY CHANGE ORDER BEFORE NEXT CLASS
 
+DELETE BOOK SERIALIZER!!! COME ON DUDE!
+
 GRANT postgres TO talesuser !!!!!
 migrate before superuser creation
 
