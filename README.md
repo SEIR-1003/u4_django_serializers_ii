@@ -1,5 +1,12 @@
 ## SEIR 1003
 
+### JEREMY CHANGE ORDER BEFORE NEXT CLASS
+
+GRANT postgres TO talesuser !!!!!
+migrate before superuser creation
+
+FIX THIS BEFORE NEXT BLOCK
+
 # Django Serializers II - Model Related Fields
 
 In our previous lesson, we began working with Serializers in Django. But we have seen a small problem - our models are related by Hyperlinks, not by their actual data. We don't want to see something like "localhost:8000/songs/5" when we load up a page, we want to see the actual data.
